@@ -10,4 +10,7 @@ El objetivo principal de este proyecto es documentar mi progreso y los recursos 
 El proyecto está en fase inicial/desarrollo/finalizado.
  
 **Contacto:**
-Puedes contactarme en [tu correo electrónico o perfil de LinkedIn].
+Puedes contactarme en:
+CORREO: leonardovasconez1405@gmail.com
+GITHUB: leonardovasconez1405-ai
+TELÉFONO: 0987848203
