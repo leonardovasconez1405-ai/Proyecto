@@ -1,6 +1,6 @@
-# Proyecto: Pasos_Git_GitHub.odt
+# Proyecto: Pasos_Git_GitHub (2026).odt
  
-Este es un repositorio para el proyecto llamado "Pasos_Git_GitHub.odt".
+Este es un repositorio para el proyecto llamado "Pasos_Git_GitHub (2026).odt".
 El objetivo principal de este proyecto es documentar mi progreso y los recursos utilizados en el aprendizaje de desarrollo web.
  
 **Contenido:**
